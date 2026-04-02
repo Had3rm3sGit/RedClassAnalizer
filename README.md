@@ -18,3 +18,4 @@ Este proyecto lo cree con el fin de exentar la materia y saber cuales son mis li
 ## Descripcion
 
 Es un proyecto escolar no hay mas, usa varias bibliotecas de python y ademas se tarda un poco en detectar las redes, no es malware, lo prometo.
+ademas no lo considero como mi mejor trabajo, en un fututo lo hare mejor
