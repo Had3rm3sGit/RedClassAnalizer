@@ -12,7 +12,7 @@ Este proyecto lo cree con el fin de exentar la materia y saber cuales son mis li
 
 
 ## Bitacora
-[para saber mas del desarrollo](../Bitacora-Proyecto ciberseguridad.md)
+[para saber mas del desarrollo](https://github.com/Had3rm3sGit/RedClassAnalizer/blob/main/readable's/Bitacora.md)
 
 
 ## Descripcion
