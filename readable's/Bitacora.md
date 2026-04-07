@@ -68,26 +68,30 @@ lo logre, se ve bien y ya es funcional, después de que no funcionara otra vez p
 
 ### Semana-4
 #### Dia-1_
-Ok todo fallo otra vez, la verdad estoy cansado, mi metodo de escanner no funciona de manera correcta y haora ya no quiere jalar, intentare actualizarlo
+Ok todo fallo otra vez, la verdad estoy cansado, mi metodo de escanner no funciona de manera correcta y haora ya no quiere jalar, intentare actualizarlo mas adelante, aun que todavia no se el problema
 
 #### Dia-2_
-La verdad todo esta saliendo mas que bien, me agrada el nuevo metodo, despues de consultar a mi maestro me dijo que solo falta el diseño asi qeu trabajare en ello
+La verdad todo esta saliendo mas que bien, me agrada el nuevo metodo, este muestra las redes del dipositivo desde el sistema lo cual lo actualiza, cosa que no me gusta del todo y despues de consultar a mi maestro me dijo que solo falta el diseño asi qeu trabajare en ello
 
 #### Dia-3_
-Despues de ver que mis librerias no funcionan, decidi usar una de base de python llamada [tinker](https://docs.python.org/es/3/library/tkinter.html) y mi diseño aun que basico esta bien, cambiare los colores y le creare mas cositas para que mejore todo
+Despues de ver que mis librerias no funcionan por una razon con la que no doy, decidi usar una de base de python llamada [tinker](https://docs.python.org/es/3/library/tkinter.html) y mi diseño aun que basico esta bien, cambiare los colores y le creare mas cositas para que mejore todo
 
 #### Dia-4_
-ok otra vez fallo todo pero almenos el maestro me dijo que el diseño esta chido y me dijo que mejor jenere un excel del reporte enves de .txt, vere que opciones tengo.
+ok otra vez fallo el scanner.py y esta vez cre fue que ocupa ermisos de administrador, algo que no quiero, almenos el maestro me dijo que el diseño esta chido y me dijo que mejor jenere un excel del reporte enves de .txt, vere que opciones tengo para ello.
 
 #### Dia-5_
-Ok al final vi que la unica opcion es [openpyxl](https://pypi-org.translate.goog/project/openpyxl/?_x_tr_sl=en&_x_tr_tl=es&_x_tr_hl=es&_x_tr_pto=tc) y [pathlib](https://docs.python.org/3/library/pathlib.html) para hacer eso, fuera de eso el resto son internas. asi que lo hare, ya mejore el GUI para que sea mas dinamico con una mejor barra de carga que la que ya tenia y que muestra un preview de el reporte en una caja abajo de la tabla de redes en texto plano, pero el refresh del adaptador todavia no sirve, vere como arreglarlo.
+Ok al final vi que la unica opcion es [openpyxl](https://pypi-org.translate.goog/project/openpyxl/?_x_tr_sl=en&_x_tr_tl=es&_x_tr_hl=es&_x_tr_pto=tc) y [pathlib](https://docs.python.org/3/library/pathlib.html) para hacer eso, fuera de eso el resto son internas. asi que lo hare, ya mejore el GUI para que sea mas dinamico con una mejor barra de carga que la que ya tenia y que muestra un preview de el reporte en una caja abajo de la tabla de redes en texto plano, pero el refresh del adaptador todavia no sirve, vere como arreglarlo y creare el metodo para los excel.
 
 ### Semana-5
 #### Dia-1_
-Ok despues de tomarme el fin de semana opte por un metodo anterior que no me parecio, uno que abre el adaptdor del dispositivo visualmente y lo reinicia para que se puedan ver las redes, ya funciona y todo solo me falta eliminar edundancias.
+Ok despues de tomarme el fin de semana opte por un metodo anterior que no me parecio qu ehera el metodo de mostrar el panel de redes del dispositivo para que se puedan ver las redes, ya funciona y todo solo me falta eliminar edundancias del codigo como info.py que no e¿sirve para nada o security.py qu epasa lo mismo
 
 #### Dia-2_
 
 YA, ya acabe, elimine redundancias, aun que no me sienta orgulloso parte del codigo pedi ayuda para documentar y haora lo unico que no es usado que queda es [Network info.py]() pero ya, ya acabe, haora oslo acabo esta bitacora y hago la revision final.
+
+### Semana-6
+#### Dia-1_
+Ya paso el mes pero sigo con esto :( ya por lo menos es resolver lo que el maestro me marco que esta mal, por mientras revisare el codigo para ver que errrores o problemas puede llegar a haber para adelantarme y guardar los cambios
 
 # ¡AVISO!- La bitácora solo tomara en cuenta tiempo de desarrollo e investigación con algún asunto que 	interfiera que sea externo a ello.
